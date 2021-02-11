@@ -2,6 +2,7 @@ keras==2.2.4
 tensorflow==2.x
 matplotlib
 numpy
+opencv-contrib-python
 scikit-learn
 scikit-image
 imutils
